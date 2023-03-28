@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "801095057550",
+    "firebase_url": "https://alish-6a656-default-rtdb.firebaseio.com",
+    "project_id": "alish-6a656",
+    "storage_bucket": "alish-6a656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801095057550:android:b2839f3e8d33bfa2a989df",
+        "android_client_info": {
+          "package_name": "com.example.Clothing_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801095057550-jq9pqi7e914h99odnt4bvj17lntn8l12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKqXvk28OHd8X0v5gr4x6_8QyeYIAdTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801095057550-jq9pqi7e914h99odnt4bvj17lntn8l12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801095057550:android:d8e42576dc977a15a989df",
+        "android_client_info": {
+          "package_name": "com.example.Raufovkurs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801095057550-01848ojc8tj4cnik78ve11vrfvojsgsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Raufovkurs",
+            "certificate_hash": "353e3ec265373e372e095dcf943d4f2dfeceaf6a"
+          }
+        },
+        {
+          "client_id": "801095057550-jq9pqi7e914h99odnt4bvj17lntn8l12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKqXvk28OHd8X0v5gr4x6_8QyeYIAdTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801095057550-jq9pqi7e914h99odnt4bvj17lntn8l12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801095057550:android:87aab10712112b2ca989df",
+        "android_client_info": {
+          "package_name": "com.example.sibchickkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801095057550-jq9pqi7e914h99odnt4bvj17lntn8l12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKqXvk28OHd8X0v5gr4x6_8QyeYIAdTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801095057550-jq9pqi7e914h99odnt4bvj17lntn8l12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
